@@ -1,3 +1,14 @@
+#Laravel 4.0.* with Bootstrap 3 starter site
+This is a fork of [58bits project] (https://github.com/58bits/laravel-4-bootstrap-3-starter) with minor modifications in order to make it work with Laravel 4.0.* version, since the update to Laravel 4.1.* was not done yet.
+
+I plan to change it in the future with only two features :
+- add the views that are missing from [Laravel 4 Bootstrap Starter Site](https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site) like forgotten password view
+- Way's generators which I am simply curious to see how they work and how they 
+speed up the productivity
+
+##### No update to Laravel 4.1.* is planned since I have neither the time, nor the appropriate experience to do this.
+
+
 #Laravel 4 Bootstrap 3 Starter Site
 
 This is a cut-down version of the excellent [Laravel 4 Bootstrap Starter Site](https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site)
