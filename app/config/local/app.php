@@ -116,6 +116,8 @@ return array(
 		'Zizaco\Confide\ConfideServiceProvider',
 		'Zizaco\Entrust\EntrustServiceProvider',
 		'Bllim\Datatables\DatatablesServiceProvider',
+		/* Uncomment for use in development */
+		'Way\Generators\GeneratorsServiceProvider', // Generators
 
 	),
 
